@@ -1,3 +1,5 @@
+### TechWorld with Nana Youtube video link: https://www.youtube.com/watch?v=s_o8dwzRlu4
+
 ### Repository for the K8s in 1 hour video
 
 #### K8s manifest files 
